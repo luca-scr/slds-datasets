@@ -1,0 +1,40 @@
+# Recommended investment allocations (in %) provided by major financial 
+# management firms at the beginning of 2011. 
+#
+# Stocks and bonds are broken into three categories: US, non-US industrialized
+# countries, and developing nations. Alternative investments include leases, 
+# oil and gas partnerships, real estate property, precious metals, and similar
+# investments. Cash includes short-term investments such as money market, bank
+# deposits and certificates of deposit. Data have been slightly modified to
+# ensure the sum by rows is 100.
+#
+# Source: 
+# Zelterman D. (2015) Applied Multivariate Statistics with R, Springer.
+Manager,US_Stocks,NoUS_Stocks,Dev_Stocks,US_Bonds,NoUS_Bonds,Dev_Bonds,Alternative,Cash 
+"Alliance Bernstein",45,3,17,35,0,0,0,0
+"AtlanticTrust",28,6,9,30,3,0,24,0
+"BankofAmerica",53,9,3,28,1,1,0,5
+"BNY Mellon",26,9,10,30,0,0,25,0
+"Bessemer",19,9,3,20,4,5,34,6
+"Brown Advisory",29,13,12,19,3,0,20,4
+"Citi Private Bank",20,29,4,19,7,2,18,1
+"Constellation",20,10,10,25,5,0,30,0
+"DeutscheBank",28,13,6,28,2,4,17,2
+"Fidelity",39,14,4,35,2,0,6,0
+"Fiduciary Trust",39,10,13,31,0,0,5,2
+"Fifth Third Bank",28,9,7,36,0,0,15,5
+"GenSpring",13,8,5,18,8,0,43,5
+"Glenmede",35,12,5,18,2,3,23,2
+"Harris Private Bank",53,10,4,18,0,0,15,0
+"Highmount Capital",25,5,10,40,5,0,15,0
+"Janney Montgomery",47,4,4,26,4,5,10,0
+"JPMorgan",20,9,5,22,3,0,38,3
+"Legg Mason",55,3,7,17,0,0,15,3
+"NorthernTrust",24,8,5,31,0,0,32,0
+"PNCAssetMgmt",40,8,2,30,0,0,20,0
+"Charles Schwab",29,20,5,29,1,0,11,5
+"SunTrust",26,6,3,25,7,0,30,3
+"UBS",32,10,7,26,6,0,17,2
+"US Bank",43,16,7,21,3,0,10,0
+"Wells Fargo",27,13,5,21,4,2,28,0
+"Wilmington Trust",27,11,4,30,1,0,27,0
